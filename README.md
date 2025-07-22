@@ -36,4 +36,4 @@ El modelo ha alcanzado un **100 % de precisión** sobre el conjunto de prueba,
 
 El dataset contiene mensajes etiquetados como spam (1) o no spam (0). Ha sido preprocesado y vectorizado para su uso en modelos de NLP.
 
-** Hugo Perez **
+*Hugo Perez*
